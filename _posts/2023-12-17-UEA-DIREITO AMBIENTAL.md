@@ -1,0 +1,63 @@
+---
+        layout: post
+        title: "MESTRADO em DIREITO AMBIENTAL na UEA  "
+        date: 2023-12-17 19:47:30
+     
+        tags:
+        - MESTRADO
+        - "DIREITO-AMBIENTAL"
+        - "CIÊNCIAS-SOCIAIS-APLICADAS"
+        - "UEA"
+        - "NORTE"
+        - "AM"
+        - "MANAUS"
+        - "ACADÊMICO"
+        - Nota:3
+        
+        
+
+        Nome do Programa: "DIREITO AMBIENTAL"
+        Nível: "MESTRADO"
+        Instituição de Ensino Superior: "UNIVERSIDADE DO ESTADO DO AMAZONAS"
+        Nota/Conceito: "3"
+        Grande Região: "NORTE"
+        Sigla da Unidade da Federação: "AM"
+        Modalidade do Programa: "ACADÊMICO"
+        
+        
+        
+        
+        
+        
+---
+## Visão Geral do Programa
+- **Nome do Programa:** DIREITO AMBIENTAL
+- **Nível:** MESTRADO
+- **Sigla da Instituição:** UEA
+- **Instituição de Ensino Superior:** UNIVERSIDADE DO ESTADO DO AMAZONAS
+- **Status Jurídico:** ESTADUAL
+- **Nota/Conceito:** 3
+- **Ano de Início do Programa:** 2003
+- **Ano de Referência do Coleta de dados:** 2021
+
+## Localização do Programa
+- **Grande Região:** NORTE
+- **Sigla da Unidade da Federação:** AM
+- **Município Sede:** MANAUS
+
+## Áreas de Conhecimento
+- **Grande Área do Conhecimento:** CIÊNCIAS SOCIAIS APLICADAS
+- **Área de Conhecimento:** DIREITO
+- **Área Básica do Conhecimento:** DIREITO
+- **Subárea:** NÃO SE APLICA
+- **Especialidade:** NÃO SE APLICA
+
+## Avaliação e Código do Programa
+- **Código Identificador da Área de Avaliação:** 26
+- **Área de Avaliação:** DIREITO
+- **Código do Programa de Pós-Graduação:** 12008010002P5
+
+
+## Modalidade e Ano de Início do Curso
+- **Modalidade do Programa:** ACADÊMICO
+- **Ano de Início de Cada Curso:** 2003

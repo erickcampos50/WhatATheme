@@ -1,6 +1,10 @@
 <section class="hero is-fullheight has-text-centered has-background-white-ter" id="about">
     <div class="hero-body">
         <div class="container">
+
+            <!-- Cabeçalho movido para dentro da hero-body para mais proximidade com o conteúdo -->
+            <h1 class="title is-1">Sobre o Projeto</h1>
+
             <div class="columns">
                 <div class="column is-one-fifth-desktop is-one-fifth-tablet is-one-fifth-fullhd">
                     <figure class="image">
@@ -12,18 +16,18 @@
                     <br>
                     <div class="container columns is-centered">
                         <div>
-                            <a href="{{site.url}}{{site.baseurl}}/#contact"
-                                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined">Contact
-                                Me</a>
+                            <a href="mailto:{{site.author-email}}"
+                                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined"><i class="fas fa-envelope"></i>Contato</a>
                             </a>
                         </div>
                         <div>
-                            <a href="{{site.url}}{{site.baseurl}}/blog"
-                                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined">Blog</a>
+                            <a href="{{site.author-url}}"
+                                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined" target="_blank">Lattes</a>
                             </a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
 </section>

@@ -1,0 +1,63 @@
+---
+        layout: post
+        title: "MESTRADO/DOUTORADO em DESENVOLVIMENTO REGIONAL E MEIO AMBIENTE na UNIR  "
+        date: 2023-12-17 19:47:30
+     
+        tags:
+        - MESTRADO/DOUTORADO
+        - "DESENVOLVIMENTO-REGIONAL-E-MEIO-AMBIENTE"
+        - "MULTIDISCIPLINAR"
+        - "UNIR"
+        - "NORTE"
+        - "RO"
+        - "PORTO-VELHO"
+        - "ACADÊMICO"
+        - Nota:4
+        
+        
+
+        Nome do Programa: "DESENVOLVIMENTO REGIONAL E MEIO AMBIENTE"
+        Nível: "MESTRADO/DOUTORADO"
+        Instituição de Ensino Superior: "UNIVERSIDADE FEDERAL DE RONDÔNIA"
+        Nota/Conceito: "4"
+        Grande Região: "NORTE"
+        Sigla da Unidade da Federação: "RO"
+        Modalidade do Programa: "ACADÊMICO"
+        
+        
+        
+        
+        
+        
+---
+## Visão Geral do Programa
+- **Nome do Programa:** DESENVOLVIMENTO REGIONAL E MEIO AMBIENTE
+- **Nível:** MESTRADO/DOUTORADO
+- **Sigla da Instituição:** UNIR
+- **Instituição de Ensino Superior:** UNIVERSIDADE FEDERAL DE RONDÔNIA
+- **Status Jurídico:** FEDERAL
+- **Nota/Conceito:** 4
+- **Ano de Início do Programa:** 1999
+- **Ano de Referência do Coleta de dados:** 2021
+
+## Localização do Programa
+- **Grande Região:** NORTE
+- **Sigla da Unidade da Federação:** RO
+- **Município Sede:** PORTO VELHO
+
+## Áreas de Conhecimento
+- **Grande Área do Conhecimento:** MULTIDISCIPLINAR
+- **Área de Conhecimento:** INTERDISCIPLINAR
+- **Área Básica do Conhecimento:** MEIO AMBIENTE E AGRÁRIAS
+- **Subárea:** MEIO AMBIENTE E AGRÁRIAS
+- **Especialidade:** NÃO SE APLICA
+
+## Avaliação e Código do Programa
+- **Código Identificador da Área de Avaliação:** 45
+- **Área de Avaliação:** INTERDISCIPLINAR
+- **Código do Programa de Pós-Graduação:** 10001018004P4
+
+
+## Modalidade e Ano de Início do Curso
+- **Modalidade do Programa:** ACADÊMICO
+- **Ano de Início de Cada Curso:** 1999/2013

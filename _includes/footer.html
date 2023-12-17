@@ -1,7 +1,7 @@
 <footer id="footer">
     <!--Footer Button-->
     <div class="container has-text-centered has-background-grey-darker" id="backtotop">
-        <a class="has-text-white" onclick="window.scroll(0,0)">BACK TO TOP</a>
+        <a class="has-text-white" onclick="window.scroll(0,0)">TOPO DA PÁGINA</a>
     </div>
     <!--Footer Main Section-->
     <div class="has-background-grey-darker">
@@ -26,7 +26,7 @@
             </div>
 
             <!--Link Section-->
-            <div class="column has-text-white">
+            <!-- <div class="column has-text-white">
                 <h3>More Links</h3>
                 {% for sitepage in site.html_pages offset: 4 %}
                 {% unless sitepage.url == '/'  limit: 2 %}
@@ -38,11 +38,11 @@
                 <li>
                     <a target="_blank" href="{{site.url}}{{site.baseurl}}/feed.xml">Subscribe via RSS</a>
                 </li>
-            </div>
+            </div> -->
 
             <!--Blog-post Section-->
             <div class="column has-text-white">
-                <h3>Recent Posts</h3>
+                <h3>Últimas informações adicionadas</h3>
                 {% for post in site.posts offset: 0 limit:3 %}
                 <li>
                     <a href="{{post.url | absolute_url}}">{{post.title}}</a>

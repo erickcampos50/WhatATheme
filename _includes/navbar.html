@@ -1,6 +1,5 @@
 <nav class="navbar is-black is-fixed-top" role="navigation" aria-label="main navigation" id="navbar">
     <div class="container">
-
         <!-- logo or branding image on left side -->
         <div class="navbar-brand">
             <a class="navbar-item"
@@ -16,20 +15,21 @@
 
         <!-- children of navbar-menu must be navbar-start and/or navbar-end -->
         <div class="navbar-menu has-background-black" id="navbar-menu">
-            <!-- navbar items | left side -->
-            <!-- <div class="navbar-start">
-            </div> -->
             <!-- navbar items | right side -->
             <div class="navbar-end">
                 <a class="navbar-item {% if page.layout == 'default' %}is-active{% endif %}"
                     href="{% if page.layout == 'default' %}{{site.url}}{{site.baseurl}}/#{% else %}{{site.url}}{{site.baseurl}}/{% endif %}">HOME</a>
-                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/#about">ABOUT</a>
-                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/#contact">CONTACT</a>
+                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/about">ABOUT</a>
+                <!-- <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/#contact">CONTACT</a> -->
                 <a class="navbar-item {% if page.layout == 'blog' %}is-active{% endif %}"
                     href="{{site.url}}{{site.baseurl}}/blog">BLOG</a>
+                <!-- Início das opções adicionais -->
+                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/graduacao">GRADUAÇÃO</a>
+                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/mestrado">MESTRADO</a>
+                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/doutorado">DOUTORADO</a>
+                <!-- Fim das opções adicionais -->
                 {% include dropdown.html %}
             </div>
-
         </div>
     </div>
 </nav>

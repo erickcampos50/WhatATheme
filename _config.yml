@@ -7,48 +7,48 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: What A Theme
+title: Quero estudar numa federal
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: Veja todos os cursos de graduação, mestrado e doutorado das universidades públicas do Brasil
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: Universidade, Federal, Graduação, Mestrado, Doutorado
 # URL for the Image of custom Favicon
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+heroimage: /assets/images/capa-hero-image.png
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+# email: erickcampos50@gmail.com
+# facebook_username: thedevslot
+# twitter_username: thedevslot
+# instagram_username: guiaufjf
+# linkedin_username: thedevslot
+# github_username:  thedevslot
+# youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
+# reddit_username: /
+# behance_username: /
+# dribbble_username: /
+# spotify_username: /
 
 # Google Analytics
-google-analytics: UA-163806439-1
+# google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: thedevslot
+# disqus-shortname: thedevslot
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: Erick Campos
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4239728J7
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: Este site é uma iniciativa voluntária para facilitar o acesso a informações sobre cursos de graduação, mestrado e doutorado em universidades públicas brasileiras - federais, estaduais e municipais. Criado para superar a dispersão de informações e a dificuldade de encontrar dados específicos em sites individuais de universidades, ele oferece uma solução centralizada. Aqui, você encontra informações extraídas de fontes oficiais como o e-MEC e a Plataforma Sucupira, disponíveis num formato concentrado e de fácil navegação. Nosso objetivo é simplificar a busca por oportunidades acadêmicas, permitindo que você veja todas as opções disponíveis em um único lugar, sem a necessidade de buscas extensas e trabalhosas. Este site é um recurso desenvolvido com dedicação, visando ajudar estudantes e acadêmicos a explorar as possibilidades educacionais nas universidades públicas do Brasil.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
-
+author-url: http://lattes.cnpq.br/6440434503672710
+author-email: erickcampos50@gmail.com
 # SASS
 sass:
   sass_dir: _sass
