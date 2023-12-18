@@ -17,7 +17,7 @@ def substituir_codigos(nome_arquivo_codigos, nome_arquivo_dados):
     df_dados = df_dados.drop(df_dados.columns[-3:], axis=1)
 
     # Salvar o arquivo modificado
-    df_dados.to_csv('dados_modificados.csv', sep='\t', index=False, header=None)
+    df_dados.to_csv('mestrado_doutorado_univ_publicas.csv', sep='\t', index=False, header=None)
 
 
 #%%
@@ -31,10 +31,10 @@ from datetime import datetime
 
 
 # Substitua isso pelo caminho do seu arquivo CSV ou Excel
-caminho_do_arquivo = 'dados_modificados.csv'
+caminho_do_arquivo = 'mestrado_doutorado_univ_publicas.csv'
 
 # Carregar apenas as 10 primeiras linhas do DataFrame
-df_dados = pd.read_csv(caminho_do_arquivo, sep="\t",nrows=100)
+df_dados = pd.read_csv(caminho_do_arquivo, sep="\t" )#,nrows=100)
 
 # Filtrar o DataFrame
 df_filtrado = df_dados[(df_dados['Situação do programa no ano de referência'] == 'EM FUNCIONAMENTO') & 
@@ -51,23 +51,18 @@ def criar_markdown(linha):
         tags:
         - {linha['Nível do programa de pós-graduação']}
         - "{linha['Nome do programa de pós-graduação'].replace(' ','-')}"
-        - "{linha['Grande área do conhecimento do programa de pós-graduação'].replace(' ','-')}"
         - "{linha['Sigla da Instituição de Ensino Superior do programa de pós-graduação']}"
-        - "{linha['Grande Região onde está localizado o programa'].replace(' ','-')}"
         - "{linha['Sigla da Unidade da Federação do programa']}"
-        - "{linha['Município sede do programa de pós-graduação'].replace(' ','-')}"
-        - "{linha['Modalidade do programa de pós-graduação'].replace(' ','-')}"
-        - Nota:{linha['Nota/Conceito do programa de pós-graduação']}
+        - CIDADE:{linha['Município sede do programa de pós-graduação'].replace(' ','-')}
+        - NOTA:{linha['Nota/Conceito do programa de pós-graduação']}
         
-        
+       
 
-        Nome do Programa: "{linha['Nome do programa de pós-graduação']}"
-        Nível: "{linha['Nível do programa de pós-graduação']}"
-        Instituição de Ensino Superior: "{linha['Instituição de Ensino Superior do programa de pós-graduação']}"
-        Nota/Conceito: "{linha['Nota/Conceito do programa de pós-graduação']}"
-        Grande Região: "{linha['Grande Região onde está localizado o programa']}"
-        Sigla da Unidade da Federação: "{linha['Sigla da Unidade da Federação do programa']}"
-        Modalidade do Programa: "{linha['Modalidade do programa de pós-graduação']}"
+        Nivel: "{linha['Nível do programa de pós-graduação']}"
+        Nota: "{linha['Nota/Conceito do programa de pós-graduação']}"
+        Instituicao: "{linha['Instituição de Ensino Superior do programa de pós-graduação']}"
+        Estado: "{linha['Sigla da Unidade da Federação do programa']}"
+        Area: "{linha['Área de conhecimento do programa de pós-graduação']}"
         
         
         
@@ -123,4 +118,6 @@ for index, linha in df_filtrado.iterrows():
     with open(nome_arquivo, 'w',encoding='utf-8') as arquivo:
         arquivo.write(criar_markdown(linha))
 
+# %%
+df_filtrado.to_csv("univ_filtradas.csv")
 # %%

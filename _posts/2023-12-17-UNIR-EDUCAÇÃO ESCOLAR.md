@@ -1,28 +1,23 @@
 ---
         layout: post
         title: "MESTRADO PROFISSIONAL/DOUTORADO PROFISSIONAL em EDUCAÇÃO ESCOLAR na UNIR  "
-        date: 2023-12-17 19:47:30
+        date: 2023-12-17 23:06:39
      
         tags:
         - MESTRADO PROFISSIONAL/DOUTORADO PROFISSIONAL
         - "EDUCAÇÃO-ESCOLAR"
-        - "CIÊNCIAS-HUMANAS"
         - "UNIR"
-        - "NORTE"
         - "RO"
-        - "PORTO-VELHO"
-        - "PROFISSIONAL"
-        - Nota:4
+        - CIDADE:PORTO-VELHO
+        - NOTA:4
         
-        
+       
 
-        Nome do Programa: "EDUCAÇÃO ESCOLAR"
-        Nível: "MESTRADO PROFISSIONAL/DOUTORADO PROFISSIONAL"
-        Instituição de Ensino Superior: "UNIVERSIDADE FEDERAL DE RONDÔNIA"
-        Nota/Conceito: "4"
-        Grande Região: "NORTE"
-        Sigla da Unidade da Federação: "RO"
-        Modalidade do Programa: "PROFISSIONAL"
+        Nivel: "MESTRADO PROFISSIONAL/DOUTORADO PROFISSIONAL"
+        Instituicao: "UNIVERSIDADE FEDERAL DE RONDÔNIA"
+        Nota: "4"
+        Estado: "RO"
+        Area: "EDUCAÇÃO"
         
         
         

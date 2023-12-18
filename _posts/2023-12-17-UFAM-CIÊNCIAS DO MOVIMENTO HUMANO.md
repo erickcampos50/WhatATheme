@@ -1,28 +1,23 @@
 ---
         layout: post
         title: "MESTRADO em CIÊNCIAS DO MOVIMENTO HUMANO na UFAM  "
-        date: 2023-12-17 19:47:30
+        date: 2023-12-17 23:06:39
      
         tags:
         - MESTRADO
         - "CIÊNCIAS-DO-MOVIMENTO-HUMANO"
-        - "CIÊNCIAS-DA-SAÚDE"
         - "UFAM"
-        - "NORTE"
         - "AM"
-        - "MANAUS"
-        - "ACADÊMICO"
-        - Nota:A
+        - CIDADE:MANAUS
+        - NOTA:A
         
-        
+       
 
-        Nome do Programa: "CIÊNCIAS DO MOVIMENTO HUMANO"
-        Nível: "MESTRADO"
-        Instituição de Ensino Superior: "UNIVERSIDADE FEDERAL DO AMAZONAS"
-        Nota/Conceito: "A"
-        Grande Região: "NORTE"
-        Sigla da Unidade da Federação: "AM"
-        Modalidade do Programa: "ACADÊMICO"
+        Nivel: "MESTRADO"
+        Instituicao: "UNIVERSIDADE FEDERAL DO AMAZONAS"
+        Nota: "A"
+        Estado: "AM"
+        Area: "EDUCAÇÃO FÍSICA"
         
         
         

@@ -1,28 +1,23 @@
 ---
         layout: post
         title: "MESTRADO em AGROECOSSISTEMAS AMAZÔNICOS na UNIR  "
-        date: 2023-12-17 19:47:30
+        date: 2023-12-17 23:06:39
      
         tags:
         - MESTRADO
         - "AGROECOSSISTEMAS-AMAZÔNICOS"
-        - "MULTIDISCIPLINAR"
         - "UNIR"
-        - "NORTE"
         - "RO"
-        - "ROLIM-DE-MOURA"
-        - "ACADÊMICO"
-        - Nota:A
+        - CIDADE:ROLIM-DE-MOURA
+        - NOTA:A
         
-        
+       
 
-        Nome do Programa: "AGROECOSSISTEMAS AMAZÔNICOS"
-        Nível: "MESTRADO"
-        Instituição de Ensino Superior: "UNIVERSIDADE FEDERAL DE RONDÔNIA"
-        Nota/Conceito: "A"
-        Grande Região: "NORTE"
-        Sigla da Unidade da Federação: "RO"
-        Modalidade do Programa: "ACADÊMICO"
+        Nivel: "MESTRADO"
+        Instituicao: "UNIVERSIDADE FEDERAL DE RONDÔNIA"
+        Nota: "A"
+        Estado: "RO"
+        Area: "INTERDISCIPLINAR"
         
         
         

@@ -1,28 +1,23 @@
 ---
         layout: post
         title: "MESTRADO PROFISSIONAL em ENFERMAGEM NO CONTEXTO AMAZÔNICO na UFAM  "
-        date: 2023-12-17 19:47:30
+        date: 2023-12-17 23:06:39
      
         tags:
         - MESTRADO PROFISSIONAL
         - "ENFERMAGEM-NO-CONTEXTO-AMAZÔNICO"
-        - "CIÊNCIAS-DA-SAÚDE"
         - "UFAM"
-        - "NORTE"
         - "AM"
-        - "MANAUS"
-        - "PROFISSIONAL"
-        - Nota:A
+        - CIDADE:MANAUS
+        - NOTA:A
         
-        
+       
 
-        Nome do Programa: "ENFERMAGEM NO CONTEXTO AMAZÔNICO"
-        Nível: "MESTRADO PROFISSIONAL"
-        Instituição de Ensino Superior: "UNIVERSIDADE FEDERAL DO AMAZONAS"
-        Nota/Conceito: "A"
-        Grande Região: "NORTE"
-        Sigla da Unidade da Federação: "AM"
-        Modalidade do Programa: "PROFISSIONAL"
+        Nivel: "MESTRADO PROFISSIONAL"
+        Instituicao: "UNIVERSIDADE FEDERAL DO AMAZONAS"
+        Nota: "A"
+        Estado: "AM"
+        Area: "ENFERMAGEM"
         
         
         

@@ -1,28 +1,23 @@
 ---
         layout: post
         title: "MESTRADO/DOUTORADO em DESENVOLVIMENTO REGIONAL E MEIO AMBIENTE na UNIR  "
-        date: 2023-12-17 19:47:30
+        date: 2023-12-17 23:06:39
      
         tags:
         - MESTRADO/DOUTORADO
         - "DESENVOLVIMENTO-REGIONAL-E-MEIO-AMBIENTE"
-        - "MULTIDISCIPLINAR"
         - "UNIR"
-        - "NORTE"
         - "RO"
-        - "PORTO-VELHO"
-        - "ACADÊMICO"
-        - Nota:4
+        - CIDADE:PORTO-VELHO
+        - NOTA:4
         
-        
+       
 
-        Nome do Programa: "DESENVOLVIMENTO REGIONAL E MEIO AMBIENTE"
-        Nível: "MESTRADO/DOUTORADO"
-        Instituição de Ensino Superior: "UNIVERSIDADE FEDERAL DE RONDÔNIA"
-        Nota/Conceito: "4"
-        Grande Região: "NORTE"
-        Sigla da Unidade da Federação: "RO"
-        Modalidade do Programa: "ACADÊMICO"
+        Nivel: "MESTRADO/DOUTORADO"
+        Instituicao: "UNIVERSIDADE FEDERAL DE RONDÔNIA"
+        Nota: "4"
+        Estado: "RO"
+        Area: "INTERDISCIPLINAR"
         
         
         

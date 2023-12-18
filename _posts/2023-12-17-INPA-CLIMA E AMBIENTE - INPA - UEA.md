@@ -1,28 +1,23 @@
 ---
         layout: post
         title: "MESTRADO/DOUTORADO em CLIMA E AMBIENTE - INPA - UEA na INPA  "
-        date: 2023-12-17 19:47:30
+        date: 2023-12-17 23:06:39
      
         tags:
         - MESTRADO/DOUTORADO
         - "CLIMA-E-AMBIENTE---INPA---UEA"
-        - "CIÊNCIAS-EXATAS-E-DA-TERRA"
         - "INPA"
-        - "NORTE"
         - "AM"
-        - "MANAUS"
-        - "ACADÊMICO"
-        - Nota:4
+        - CIDADE:MANAUS
+        - NOTA:4
         
-        
+       
 
-        Nome do Programa: "CLIMA E AMBIENTE - INPA - UEA"
-        Nível: "MESTRADO/DOUTORADO"
-        Instituição de Ensino Superior: "INSTITUTO NACIONAL DE PESQUISAS DA AMAZÔNIA"
-        Nota/Conceito: "4"
-        Grande Região: "NORTE"
-        Sigla da Unidade da Federação: "AM"
-        Modalidade do Programa: "ACADÊMICO"
+        Nivel: "MESTRADO/DOUTORADO"
+        Instituicao: "INSTITUTO NACIONAL DE PESQUISAS DA AMAZÔNIA"
+        Nota: "4"
+        Estado: "AM"
+        Area: "GEOCIÊNCIAS"
         
         
         

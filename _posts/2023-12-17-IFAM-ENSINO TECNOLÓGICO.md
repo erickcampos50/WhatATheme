@@ -1,28 +1,23 @@
 ---
         layout: post
         title: "MESTRADO PROFISSIONAL/DOUTORADO PROFISSIONAL em ENSINO TECNOLÓGICO na IFAM  "
-        date: 2023-12-17 19:47:30
+        date: 2023-12-17 23:06:39
      
         tags:
         - MESTRADO PROFISSIONAL/DOUTORADO PROFISSIONAL
         - "ENSINO-TECNOLÓGICO"
-        - "MULTIDISCIPLINAR"
         - "IFAM"
-        - "NORTE"
         - "AM"
-        - "MANAUS"
-        - "PROFISSIONAL"
-        - Nota:4
+        - CIDADE:MANAUS
+        - NOTA:4
         
-        
+       
 
-        Nome do Programa: "ENSINO TECNOLÓGICO"
-        Nível: "MESTRADO PROFISSIONAL/DOUTORADO PROFISSIONAL"
-        Instituição de Ensino Superior: "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO AMAZONAS"
-        Nota/Conceito: "4"
-        Grande Região: "NORTE"
-        Sigla da Unidade da Federação: "AM"
-        Modalidade do Programa: "PROFISSIONAL"
+        Nivel: "MESTRADO PROFISSIONAL/DOUTORADO PROFISSIONAL"
+        Instituicao: "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO AMAZONAS"
+        Nota: "4"
+        Estado: "AM"
+        Area: "ENSINO"
         
         
         

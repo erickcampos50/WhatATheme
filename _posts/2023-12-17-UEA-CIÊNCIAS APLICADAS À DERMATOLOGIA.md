@@ -1,28 +1,23 @@
 ---
         layout: post
         title: "MESTRADO PROFISSIONAL em CIÊNCIAS APLICADAS À DERMATOLOGIA na UEA  "
-        date: 2023-12-17 19:47:30
+        date: 2023-12-17 23:06:39
      
         tags:
         - MESTRADO PROFISSIONAL
         - "CIÊNCIAS-APLICADAS-À-DERMATOLOGIA"
-        - "CIÊNCIAS-DA-SAÚDE"
         - "UEA"
-        - "NORTE"
         - "AM"
-        - "MANAUS"
-        - "PROFISSIONAL"
-        - Nota:3
+        - CIDADE:MANAUS
+        - NOTA:3
         
-        
+       
 
-        Nome do Programa: "CIÊNCIAS APLICADAS À DERMATOLOGIA"
-        Nível: "MESTRADO PROFISSIONAL"
-        Instituição de Ensino Superior: "UNIVERSIDADE DO ESTADO DO AMAZONAS"
-        Nota/Conceito: "3"
-        Grande Região: "NORTE"
-        Sigla da Unidade da Federação: "AM"
-        Modalidade do Programa: "PROFISSIONAL"
+        Nivel: "MESTRADO PROFISSIONAL"
+        Instituicao: "UNIVERSIDADE DO ESTADO DO AMAZONAS"
+        Nota: "3"
+        Estado: "AM"
+        Area: "MEDICINA"
         
         
         

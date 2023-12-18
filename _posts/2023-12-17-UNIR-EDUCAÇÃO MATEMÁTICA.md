@@ -1,28 +1,23 @@
 ---
         layout: post
         title: "MESTRADO em EDUCAÇÃO MATEMÁTICA na UNIR  "
-        date: 2023-12-17 19:47:30
+        date: 2023-12-17 23:06:39
      
         tags:
         - MESTRADO
         - "EDUCAÇÃO-MATEMÁTICA"
-        - "MULTIDISCIPLINAR"
         - "UNIR"
-        - "NORTE"
         - "RO"
-        - "JI-PARANÁ"
-        - "ACADÊMICO"
-        - Nota:A
+        - CIDADE:JI-PARANÁ
+        - NOTA:A
         
-        
+       
 
-        Nome do Programa: "EDUCAÇÃO MATEMÁTICA"
-        Nível: "MESTRADO"
-        Instituição de Ensino Superior: "UNIVERSIDADE FEDERAL DE RONDÔNIA"
-        Nota/Conceito: "A"
-        Grande Região: "NORTE"
-        Sigla da Unidade da Federação: "RO"
-        Modalidade do Programa: "ACADÊMICO"
+        Nivel: "MESTRADO"
+        Instituicao: "UNIVERSIDADE FEDERAL DE RONDÔNIA"
+        Nota: "A"
+        Estado: "RO"
+        Area: "ENSINO"
         
         
         

@@ -1,28 +1,23 @@
 ---
         layout: post
         title: "MESTRADO/DOUTORADO em SANIDADE E PRODUÇÃO ANIMAL SUSTENTÁVEL NA AMAZÔNIA OCIDENTAL na UFAC  "
-        date: 2023-12-17 19:47:30
+        date: 2023-12-17 23:06:39
      
         tags:
         - MESTRADO/DOUTORADO
         - "SANIDADE-E-PRODUÇÃO-ANIMAL-SUSTENTÁVEL-NA-AMAZÔNIA-OCIDENTAL"
-        - "CIÊNCIAS-AGRÁRIAS"
         - "UFAC"
-        - "NORTE"
         - "AC"
-        - "RIO-BRANCO"
-        - "ACADÊMICO"
-        - Nota:4
+        - CIDADE:RIO-BRANCO
+        - NOTA:4
         
-        
+       
 
-        Nome do Programa: "SANIDADE E PRODUÇÃO ANIMAL SUSTENTÁVEL NA AMAZÔNIA OCIDENTAL"
-        Nível: "MESTRADO/DOUTORADO"
-        Instituição de Ensino Superior: "UNIVERSIDADE FEDERAL DO ACRE"
-        Nota/Conceito: "4"
-        Grande Região: "NORTE"
-        Sigla da Unidade da Federação: "AC"
-        Modalidade do Programa: "ACADÊMICO"
+        Nivel: "MESTRADO/DOUTORADO"
+        Instituicao: "UNIVERSIDADE FEDERAL DO ACRE"
+        Nota: "4"
+        Estado: "AC"
+        Area: "MEDICINA VETERINÁRIA"
         
         
         

@@ -1,0 +1,20 @@
+- name: Por instituição
+  link:  pos-graduacao-instituicao
+  image: https://fakeimg.pl/300x100/0b71e6/fff/?text=Programas%20por%20Institui%C3%A7%C3%A3o&font=roboto
+  description: Navegue pelos programas de pós-graduação oferecidos por cada universidade pública brasileira. Encontre a instituição perfeita para você.
+- name: Por estado
+  link: pos-graduacao-estado
+  image: https://fakeimg.pl/300x100/0b71e6/fff/?text=Programas%20por%20Estado&font=roboto
+  description: Busque programas de Mestrado e Doutorado por estado. Encontre instituições próximas e faça sua escolha com conveniência e proximidade.
+- name: Por área 
+  link: pos-graduacao-area
+  image: https://fakeimg.pl/300x100/0b71e6/fff/?text=Programas%20por%20%C3%81rea%20do%20conhecimento&font=roboto
+  description: Selecione programas de pós-graduação por área de interesse. Encontre o caminho ideal para avançar em sua área específica de estudo.
+- name: Por classe
+  image:  https://fakeimg.pl/300x100/0b71e6/fff/?text=Programas%20por%20Classe&font=roboto
+  link: pos-graduacao-classe
+  description: Lista de programas de mestrado e doutorado organizando por classe (Mestrado, Doutorado, Mestrado Profissional, etc.)
+- name: Por Nota Capes
+  link: pos-graduacao-nota
+  image: https://fakeimg.pl/300x100/0b71e6/fff/?text=Top%20CAPES&font=roboto
+  description: Descubra os programas com as melhores notas da CAPES. Escolha entre os mais bem avaliados para garantir uma educação de qualidade.

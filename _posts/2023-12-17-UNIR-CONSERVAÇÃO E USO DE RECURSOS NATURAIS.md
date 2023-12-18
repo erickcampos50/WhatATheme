@@ -1,28 +1,23 @@
 ---
         layout: post
         title: "MESTRADO em CONSERVAÇÃO E USO DE RECURSOS NATURAIS na UNIR  "
-        date: 2023-12-17 19:47:30
+        date: 2023-12-17 23:06:39
      
         tags:
         - MESTRADO
         - "CONSERVAÇÃO-E-USO-DE-RECURSOS-NATURAIS"
-        - "CIÊNCIAS-BIOLÓGICAS"
         - "UNIR"
-        - "NORTE"
         - "RO"
-        - "PORTO-VELHO"
-        - "ACADÊMICO"
-        - Nota:A
+        - CIDADE:PORTO-VELHO
+        - NOTA:A
         
-        
+       
 
-        Nome do Programa: "CONSERVAÇÃO E USO DE RECURSOS NATURAIS"
-        Nível: "MESTRADO"
-        Instituição de Ensino Superior: "UNIVERSIDADE FEDERAL DE RONDÔNIA"
-        Nota/Conceito: "A"
-        Grande Região: "NORTE"
-        Sigla da Unidade da Federação: "RO"
-        Modalidade do Programa: "ACADÊMICO"
+        Nivel: "MESTRADO"
+        Instituicao: "UNIVERSIDADE FEDERAL DE RONDÔNIA"
+        Nota: "A"
+        Estado: "RO"
+        Area: "ECOLOGIA"
         
         
         

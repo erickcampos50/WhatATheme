@@ -1,28 +1,23 @@
 ---
         layout: post
         title: "MESTRADO em SAÚDE COLETIVA na UEA  "
-        date: 2023-12-17 19:47:30
+        date: 2023-12-17 23:06:39
      
         tags:
         - MESTRADO
         - "SAÚDE-COLETIVA"
-        - "CIÊNCIAS-DA-SAÚDE"
         - "UEA"
-        - "NORTE"
         - "AM"
-        - "MANAUS"
-        - "ACADÊMICO"
-        - Nota:A
+        - CIDADE:MANAUS
+        - NOTA:A
         
-        
+       
 
-        Nome do Programa: "SAÚDE COLETIVA"
-        Nível: "MESTRADO"
-        Instituição de Ensino Superior: "UNIVERSIDADE DO ESTADO DO AMAZONAS"
-        Nota/Conceito: "A"
-        Grande Região: "NORTE"
-        Sigla da Unidade da Federação: "AM"
-        Modalidade do Programa: "ACADÊMICO"
+        Nivel: "MESTRADO"
+        Instituicao: "UNIVERSIDADE DO ESTADO DO AMAZONAS"
+        Nota: "A"
+        Estado: "AM"
+        Area: "SAÚDE COLETIVA"
         
         
         

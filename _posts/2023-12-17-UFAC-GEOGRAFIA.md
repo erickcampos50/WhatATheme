@@ -1,28 +1,23 @@
 ---
         layout: post
         title: "MESTRADO em GEOGRAFIA na UFAC  "
-        date: 2023-12-17 19:47:30
+        date: 2023-12-17 23:06:39
      
         tags:
         - MESTRADO
         - "GEOGRAFIA"
-        - "CIÊNCIAS-HUMANAS"
         - "UFAC"
-        - "NORTE"
         - "AC"
-        - "RIO-BRANCO"
-        - "ACADÊMICO"
-        - Nota:A
+        - CIDADE:RIO-BRANCO
+        - NOTA:A
         
-        
+       
 
-        Nome do Programa: "GEOGRAFIA"
-        Nível: "MESTRADO"
-        Instituição de Ensino Superior: "UNIVERSIDADE FEDERAL DO ACRE"
-        Nota/Conceito: "A"
-        Grande Região: "NORTE"
-        Sigla da Unidade da Federação: "AC"
-        Modalidade do Programa: "ACADÊMICO"
+        Nivel: "MESTRADO"
+        Instituicao: "UNIVERSIDADE FEDERAL DO ACRE"
+        Nota: "A"
+        Estado: "AC"
+        Area: "GEOGRAFIA"
         
         
         

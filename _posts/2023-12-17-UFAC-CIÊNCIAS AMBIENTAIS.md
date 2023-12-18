@@ -1,28 +1,23 @@
 ---
         layout: post
         title: "MESTRADO em CIÊNCIAS AMBIENTAIS na UFAC  "
-        date: 2023-12-17 19:47:30
+        date: 2023-12-17 23:06:39
      
         tags:
         - MESTRADO
         - "CIÊNCIAS-AMBIENTAIS"
-        - "MULTIDISCIPLINAR"
         - "UFAC"
-        - "NORTE"
         - "AC"
-        - "CRUZEIRO-DO-SUL"
-        - "ACADÊMICO"
-        - Nota:A
+        - CIDADE:CRUZEIRO-DO-SUL
+        - NOTA:A
         
-        
+       
 
-        Nome do Programa: "CIÊNCIAS AMBIENTAIS"
-        Nível: "MESTRADO"
-        Instituição de Ensino Superior: "UNIVERSIDADE FEDERAL DO ACRE"
-        Nota/Conceito: "A"
-        Grande Região: "NORTE"
-        Sigla da Unidade da Federação: "AC"
-        Modalidade do Programa: "ACADÊMICO"
+        Nivel: "MESTRADO"
+        Instituicao: "UNIVERSIDADE FEDERAL DO ACRE"
+        Nota: "A"
+        Estado: "AC"
+        Area: "CIÊNCIAS AMBIENTAIS"
         
         
         

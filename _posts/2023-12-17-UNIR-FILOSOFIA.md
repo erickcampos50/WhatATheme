@@ -1,28 +1,23 @@
 ---
         layout: post
         title: "MESTRADO em FILOSOFIA na UNIR  "
-        date: 2023-12-17 19:47:30
+        date: 2023-12-17 23:06:39
      
         tags:
         - MESTRADO
         - "FILOSOFIA"
-        - "CIÊNCIAS-HUMANAS"
         - "UNIR"
-        - "NORTE"
         - "RO"
-        - "PORTO-VELHO"
-        - "ACADÊMICO"
-        - Nota:A
+        - CIDADE:PORTO-VELHO
+        - NOTA:A
         
-        
+       
 
-        Nome do Programa: "FILOSOFIA"
-        Nível: "MESTRADO"
-        Instituição de Ensino Superior: "UNIVERSIDADE FEDERAL DE RONDÔNIA"
-        Nota/Conceito: "A"
-        Grande Região: "NORTE"
-        Sigla da Unidade da Federação: "RO"
-        Modalidade do Programa: "ACADÊMICO"
+        Nivel: "MESTRADO"
+        Instituicao: "UNIVERSIDADE FEDERAL DE RONDÔNIA"
+        Nota: "A"
+        Estado: "RO"
+        Area: "FILOSOFIA"
         
         
         

@@ -1,28 +1,23 @@
 ---
         layout: post
         title: "MESTRADO/DOUTORADO em CIÊNCIAS DE FLORESTAS TROPICAIS na INPA  "
-        date: 2023-12-17 19:47:30
+        date: 2023-12-17 23:06:39
      
         tags:
         - MESTRADO/DOUTORADO
         - "CIÊNCIAS-DE-FLORESTAS-TROPICAIS"
-        - "CIÊNCIAS-AGRÁRIAS"
         - "INPA"
-        - "NORTE"
         - "AM"
-        - "MANAUS"
-        - "ACADÊMICO"
-        - Nota:5
+        - CIDADE:MANAUS
+        - NOTA:5
         
-        
+       
 
-        Nome do Programa: "CIÊNCIAS DE FLORESTAS TROPICAIS"
-        Nível: "MESTRADO/DOUTORADO"
-        Instituição de Ensino Superior: "INSTITUTO NACIONAL DE PESQUISAS DA AMAZÔNIA"
-        Nota/Conceito: "5"
-        Grande Região: "NORTE"
-        Sigla da Unidade da Federação: "AM"
-        Modalidade do Programa: "ACADÊMICO"
+        Nivel: "MESTRADO/DOUTORADO"
+        Instituicao: "INSTITUTO NACIONAL DE PESQUISAS DA AMAZÔNIA"
+        Nota: "5"
+        Estado: "AM"
+        Area: "RECURSOS FLORESTAIS E ENGENHARIA FLORESTAL"
         
         
         

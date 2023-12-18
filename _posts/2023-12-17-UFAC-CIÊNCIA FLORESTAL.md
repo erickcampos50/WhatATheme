@@ -1,28 +1,23 @@
 ---
         layout: post
         title: "MESTRADO em CIÊNCIA FLORESTAL na UFAC  "
-        date: 2023-12-17 19:47:30
+        date: 2023-12-17 23:06:39
      
         tags:
         - MESTRADO
         - "CIÊNCIA-FLORESTAL"
-        - "CIÊNCIAS-AGRÁRIAS"
         - "UFAC"
-        - "NORTE"
         - "AC"
-        - "RIO-BRANCO"
-        - "ACADÊMICO"
-        - Nota:3
+        - CIDADE:RIO-BRANCO
+        - NOTA:3
         
-        
+       
 
-        Nome do Programa: "CIÊNCIA FLORESTAL"
-        Nível: "MESTRADO"
-        Instituição de Ensino Superior: "UNIVERSIDADE FEDERAL DO ACRE"
-        Nota/Conceito: "3"
-        Grande Região: "NORTE"
-        Sigla da Unidade da Federação: "AC"
-        Modalidade do Programa: "ACADÊMICO"
+        Nivel: "MESTRADO"
+        Instituicao: "UNIVERSIDADE FEDERAL DO ACRE"
+        Nota: "3"
+        Estado: "AC"
+        Area: "RECURSOS FLORESTAIS E ENGENHARIA FLORESTAL"
         
         
         

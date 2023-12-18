@@ -1,28 +1,23 @@
 ---
         layout: post
         title: "MESTRADO PROFISSIONAL em GESTÃO DE ÁREAS PROTEGIDAS NA AMAZÔNIA na INPA  "
-        date: 2023-12-17 19:47:30
+        date: 2023-12-17 23:06:39
      
         tags:
         - MESTRADO PROFISSIONAL
         - "GESTÃO-DE-ÁREAS-PROTEGIDAS-NA-AMAZÔNIA"
-        - "CIÊNCIAS-AGRÁRIAS"
         - "INPA"
-        - "NORTE"
         - "AM"
-        - "MANAUS"
-        - "PROFISSIONAL"
-        - Nota:3
+        - CIDADE:MANAUS
+        - NOTA:3
         
-        
+       
 
-        Nome do Programa: "GESTÃO DE ÁREAS PROTEGIDAS NA AMAZÔNIA"
-        Nível: "MESTRADO PROFISSIONAL"
-        Instituição de Ensino Superior: "INSTITUTO NACIONAL DE PESQUISAS DA AMAZÔNIA"
-        Nota/Conceito: "3"
-        Grande Região: "NORTE"
-        Sigla da Unidade da Federação: "AM"
-        Modalidade do Programa: "PROFISSIONAL"
+        Nivel: "MESTRADO PROFISSIONAL"
+        Instituicao: "INSTITUTO NACIONAL DE PESQUISAS DA AMAZÔNIA"
+        Nota: "3"
+        Estado: "AM"
+        Area: "RECURSOS FLORESTAIS E ENGENHARIA FLORESTAL"
         
         
         

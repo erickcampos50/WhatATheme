@@ -1,28 +1,23 @@
 ---
         layout: post
         title: "MESTRADO em ADMINISTRAÇÃO na UNIR  "
-        date: 2023-12-17 19:47:30
+        date: 2023-12-17 23:06:39
      
         tags:
         - MESTRADO
         - "ADMINISTRAÇÃO"
-        - "CIÊNCIAS-SOCIAIS-APLICADAS"
         - "UNIR"
-        - "NORTE"
         - "RO"
-        - "PORTO-VELHO"
-        - "ACADÊMICO"
-        - Nota:3
+        - CIDADE:PORTO-VELHO
+        - NOTA:3
         
-        
+       
 
-        Nome do Programa: "ADMINISTRAÇÃO"
-        Nível: "MESTRADO"
-        Instituição de Ensino Superior: "UNIVERSIDADE FEDERAL DE RONDÔNIA"
-        Nota/Conceito: "3"
-        Grande Região: "NORTE"
-        Sigla da Unidade da Federação: "RO"
-        Modalidade do Programa: "ACADÊMICO"
+        Nivel: "MESTRADO"
+        Instituicao: "UNIVERSIDADE FEDERAL DE RONDÔNIA"
+        Nota: "3"
+        Estado: "RO"
+        Area: "ADMINISTRAÇÃO"
         
         
         

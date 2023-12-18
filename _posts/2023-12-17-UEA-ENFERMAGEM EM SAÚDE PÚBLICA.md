@@ -1,28 +1,23 @@
 ---
         layout: post
         title: "MESTRADO PROFISSIONAL em ENFERMAGEM EM SAÚDE PÚBLICA na UEA  "
-        date: 2023-12-17 19:47:30
+        date: 2023-12-17 23:06:39
      
         tags:
         - MESTRADO PROFISSIONAL
         - "ENFERMAGEM-EM-SAÚDE-PÚBLICA"
-        - "CIÊNCIAS-DA-SAÚDE"
         - "UEA"
-        - "NORTE"
         - "AM"
-        - "MANAUS"
-        - "PROFISSIONAL"
-        - Nota:A
+        - CIDADE:MANAUS
+        - NOTA:A
         
-        
+       
 
-        Nome do Programa: "ENFERMAGEM EM SAÚDE PÚBLICA"
-        Nível: "MESTRADO PROFISSIONAL"
-        Instituição de Ensino Superior: "UNIVERSIDADE DO ESTADO DO AMAZONAS"
-        Nota/Conceito: "A"
-        Grande Região: "NORTE"
-        Sigla da Unidade da Federação: "AM"
-        Modalidade do Programa: "PROFISSIONAL"
+        Nivel: "MESTRADO PROFISSIONAL"
+        Instituicao: "UNIVERSIDADE DO ESTADO DO AMAZONAS"
+        Nota: "A"
+        Estado: "AM"
+        Area: "ENFERMAGEM"
         
         
         

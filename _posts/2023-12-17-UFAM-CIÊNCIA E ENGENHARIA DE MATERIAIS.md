@@ -1,28 +1,23 @@
 ---
         layout: post
         title: "MESTRADO em CIÊNCIA E ENGENHARIA DE MATERIAIS na UFAM  "
-        date: 2023-12-17 19:47:30
+        date: 2023-12-17 23:06:39
      
         tags:
         - MESTRADO
         - "CIÊNCIA-E-ENGENHARIA-DE-MATERIAIS"
-        - "MULTIDISCIPLINAR"
         - "UFAM"
-        - "NORTE"
         - "AM"
-        - "MANAUS"
-        - "ACADÊMICO"
-        - Nota:3
+        - CIDADE:MANAUS
+        - NOTA:3
         
-        
+       
 
-        Nome do Programa: "CIÊNCIA E ENGENHARIA DE MATERIAIS"
-        Nível: "MESTRADO"
-        Instituição de Ensino Superior: "UNIVERSIDADE FEDERAL DO AMAZONAS"
-        Nota/Conceito: "3"
-        Grande Região: "NORTE"
-        Sigla da Unidade da Federação: "AM"
-        Modalidade do Programa: "ACADÊMICO"
+        Nivel: "MESTRADO"
+        Instituicao: "UNIVERSIDADE FEDERAL DO AMAZONAS"
+        Nota: "3"
+        Estado: "AM"
+        Area: "MATERIAIS"
         
         
         

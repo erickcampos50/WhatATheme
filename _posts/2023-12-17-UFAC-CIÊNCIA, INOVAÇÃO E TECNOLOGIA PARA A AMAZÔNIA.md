@@ -1,28 +1,23 @@
 ---
         layout: post
         title: "MESTRADO em CIÊNCIA, INOVAÇÃO E TECNOLOGIA PARA A AMAZÔNIA na UFAC  "
-        date: 2023-12-17 19:47:30
+        date: 2023-12-17 23:06:39
      
         tags:
         - MESTRADO
         - "CIÊNCIA,-INOVAÇÃO-E-TECNOLOGIA-PARA-A-AMAZÔNIA"
-        - "MULTIDISCIPLINAR"
         - "UFAC"
-        - "NORTE"
         - "AC"
-        - "RIO-BRANCO"
-        - "ACADÊMICO"
-        - Nota:3
+        - CIDADE:RIO-BRANCO
+        - NOTA:3
         
-        
+       
 
-        Nome do Programa: "CIÊNCIA, INOVAÇÃO E TECNOLOGIA PARA A AMAZÔNIA"
-        Nível: "MESTRADO"
-        Instituição de Ensino Superior: "UNIVERSIDADE FEDERAL DO ACRE"
-        Nota/Conceito: "3"
-        Grande Região: "NORTE"
-        Sigla da Unidade da Federação: "AC"
-        Modalidade do Programa: "ACADÊMICO"
+        Nivel: "MESTRADO"
+        Instituicao: "UNIVERSIDADE FEDERAL DO ACRE"
+        Nota: "3"
+        Estado: "AC"
+        Area: "INTERDISCIPLINAR"
         
         
         

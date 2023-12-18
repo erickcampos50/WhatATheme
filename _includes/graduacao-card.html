@@ -1,0 +1,17 @@
+<div class="columns is-centered is-multiline is-mobile">
+    {% for graduacao in site.data.graduacao %}
+      <div class="column has-text-centered is-paddingless is-marginless is-one-third-widescreen is-one-third-desktop is-one-fifth-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch"
+        id="graduacao-card">
+        <a href="{{graduacao.link}}" >
+        <div class="has-background-black card">
+          <figure class="image is-3by1" style="background-image: url({{graduacao.image}});">
+          </figure>
+          <div class="card-content">
+            <h1 class="title has-text-white is-size-4">{{ graduacao.name }}</h1>
+            <p class="has-text-white has-text-weight-light content">{{ graduacao.description | truncate: 180}}</p>
+          </div>
+        </div>
+        </a>
+      </div>
+    {% endfor %}
+  </div>

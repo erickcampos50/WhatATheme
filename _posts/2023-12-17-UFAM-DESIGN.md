@@ -1,28 +1,23 @@
 ---
         layout: post
         title: "MESTRADO PROFISSIONAL em DESIGN na UFAM  "
-        date: 2023-12-17 19:47:30
+        date: 2023-12-17 23:06:39
      
         tags:
         - MESTRADO PROFISSIONAL
         - "DESIGN"
-        - "CIÊNCIAS-SOCIAIS-APLICADAS"
         - "UFAM"
-        - "NORTE"
         - "AM"
-        - "MANAUS"
-        - "PROFISSIONAL"
-        - Nota:3
+        - CIDADE:MANAUS
+        - NOTA:3
         
-        
+       
 
-        Nome do Programa: "DESIGN"
-        Nível: "MESTRADO PROFISSIONAL"
-        Instituição de Ensino Superior: "UNIVERSIDADE FEDERAL DO AMAZONAS"
-        Nota/Conceito: "3"
-        Grande Região: "NORTE"
-        Sigla da Unidade da Federação: "AM"
-        Modalidade do Programa: "PROFISSIONAL"
+        Nivel: "MESTRADO PROFISSIONAL"
+        Instituicao: "UNIVERSIDADE FEDERAL DO AMAZONAS"
+        Nota: "3"
+        Estado: "AM"
+        Area: "DESENHO INDUSTRIAL"
         
         
         

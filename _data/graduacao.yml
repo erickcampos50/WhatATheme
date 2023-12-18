@@ -1,0 +1,16 @@
+- name: Por instituição
+  link:  graduacao-instituicao
+  image: https://fakeimg.pl/300x100/32a852/fff/?text=Cursos%20por%20Institui%C3%A7%C3%A3o&font=roboto
+  description: Navegue pelos Cursos de graduação oferecidos por cada universidade pública brasileira. Encontre a instituição perfeita para você.
+- name: Por estado
+  link: graduacao-estado
+  image: https://fakeimg.pl/300x100/32a852/fff/?text=Cursos%20por%20Estado&font=roboto
+  description: Busque por cursos por estado do Brasil. Encontre as instituições mais próximas e faça sua escolha com conveniência e proximidade.
+- name: Por curso 
+  link: graduacao-curso
+  image: https://fakeimg.pl/300x100/32a852/fff/?text=Cursos%20por%20%C3%81rea%20do%20conhecimento&font=roboto
+  description: Identifique quais universidades possuem o curso do seu interesse Encontre o caminho ideal para avançar em sua área específica de estudo.
+- name: Por Nota Capes
+  link: graduacao-nota
+  image: https://fakeimg.pl/300x100/32a852/fff/?text=Top%20CAPES&font=roboto
+  description: Descubra os Cursos com as melhores notas da CAPES. Escolha entre os mais bem avaliados para garantir uma educação de qualidade.
