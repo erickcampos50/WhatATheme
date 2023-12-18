@@ -1,7 +1,7 @@
 ---
         layout: post
         title: "MESTRADO em BIOTECNOLOGIA APLICADA À AGROPECUÁRIA na UFRA  "
-        date: 2023-12-18 00:10:42
+        date: 2023-12-18 02:05:29
      
         tags:
         - MESTRADO
@@ -18,6 +18,7 @@
         Instituicao: "UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA"
         Estado: "PA"
         Area: "BIOTECNOLOGIA"
+        Regiao: NORTE
         
         
         

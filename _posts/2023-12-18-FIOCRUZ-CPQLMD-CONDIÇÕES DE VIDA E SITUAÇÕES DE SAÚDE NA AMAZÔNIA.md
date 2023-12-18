@@ -1,7 +1,7 @@
 ---
         layout: post
         title: "MESTRADO em CONDIÇÕES DE VIDA E SITUAÇÕES DE SAÚDE NA AMAZÔNIA na FIOCRUZ-CPQLMD  "
-        date: 2023-12-18 00:10:42
+        date: 2023-12-18 02:05:29
      
         tags:
         - MESTRADO
@@ -18,6 +18,7 @@
         Instituicao: "FIOCRUZ ( CENTRO DE PESQUISA LEÔNIDAS E MARIA DEANE )"
         Estado: "AM"
         Area: "SAÚDE COLETIVA"
+        Regiao: NORTE
         
         
         

@@ -1,7 +1,7 @@
 ---
         layout: post
         title: "MESTRADO em ECOLOGIA E CONSERVAÇÃO DA BIODIVERSIDADE na UEMA  "
-        date: 2023-12-18 00:10:42
+        date: 2023-12-18 02:05:29
      
         tags:
         - MESTRADO
@@ -18,6 +18,7 @@
         Instituicao: "UNIVERSIDADE ESTADUAL DO MARANHÃO"
         Estado: "MA"
         Area: "ECOLOGIA"
+        Regiao: NORDESTE
         
         
         

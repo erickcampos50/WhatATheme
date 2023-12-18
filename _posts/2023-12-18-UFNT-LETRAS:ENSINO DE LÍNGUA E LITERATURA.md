@@ -1,7 +1,7 @@
 ---
         layout: post
         title: "MESTRADO/DOUTORADO em LETRAS:ENSINO DE LÍNGUA E LITERATURA na UFNT  "
-        date: 2023-12-18 00:10:42
+        date: 2023-12-18 02:05:29
      
         tags:
         - MESTRADO/DOUTORADO
@@ -18,6 +18,7 @@
         Instituicao: "UNIVERSIDADE FEDERAL DO NORTE DO TOCANTINS - UFNT"
         Estado: "TO"
         Area: "LETRAS"
+        Regiao: NORTE
         
         
         

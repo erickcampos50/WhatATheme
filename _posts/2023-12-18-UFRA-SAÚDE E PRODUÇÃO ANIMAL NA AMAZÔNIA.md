@@ -1,7 +1,7 @@
 ---
         layout: post
         title: "MESTRADO/DOUTORADO em SAÚDE E PRODUÇÃO ANIMAL NA AMAZÔNIA na UFRA  "
-        date: 2023-12-18 00:10:42
+        date: 2023-12-18 02:05:29
      
         tags:
         - MESTRADO/DOUTORADO
@@ -18,6 +18,7 @@
         Instituicao: "UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA"
         Estado: "PA"
         Area: "MEDICINA VETERINÁRIA"
+        Regiao: NORTE
         
         
         

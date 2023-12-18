@@ -1,7 +1,7 @@
 ---
         layout: post
         title: "MESTRADO/DOUTORADO em AGRONOMIA na UFRR  "
-        date: 2023-12-18 00:10:42
+        date: 2023-12-18 02:05:29
      
         tags:
         - MESTRADO/DOUTORADO
@@ -18,6 +18,7 @@
         Instituicao: "FUNDAÇÃO UNIVERSIDADE FEDERAL DE RORAIMA"
         Estado: "RR"
         Area: "AGRONOMIA"
+        Regiao: NORTE
         
         
         

@@ -1,7 +1,7 @@
 ---
         layout: post
         title: "MESTRADO PROFISSIONAL em DOCÊNCIA EM EDUCAÇÃO EM CIÊNCIAS E MATEMÁTICAS na UFPA  "
-        date: 2023-12-18 00:10:42
+        date: 2023-12-18 02:05:29
      
         tags:
         - MESTRADO PROFISSIONAL
@@ -18,6 +18,7 @@
         Instituicao: "UNIVERSIDADE FEDERAL DO PARÁ"
         Estado: "PA"
         Area: "ENSINO"
+        Regiao: NORTE
         
         
         

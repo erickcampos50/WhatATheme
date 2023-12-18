@@ -1,7 +1,7 @@
 ---
         layout: post
         title: "MESTRADO em ENGENHARIA DE MATERIAIS na IFMA - MC  "
-        date: 2023-12-18 00:10:42
+        date: 2023-12-18 02:05:29
      
         tags:
         - MESTRADO
@@ -18,6 +18,7 @@
         Instituicao: "INSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DO MARANHÃO - MONTE CASTELO"
         Estado: "MA"
         Area: "ENGENHARIA DE MATERIAIS E METALÚRGICA"
+        Regiao: NORDESTE
         
         
         

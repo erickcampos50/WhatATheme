@@ -1,7 +1,7 @@
 ---
         layout: post
         title: "MESTRADO em EPIDEMIOLOGIA E VIGILÂNCIA EM SAÚDE na IEC  "
-        date: 2023-12-18 00:10:42
+        date: 2023-12-18 02:05:29
      
         tags:
         - MESTRADO
@@ -18,6 +18,7 @@
         Instituicao: "INSTITUTO EVANDRO CHAGAS"
         Estado: "PA"
         Area: "SAÚDE COLETIVA"
+        Regiao: NORTE
         
         
         

@@ -1,7 +1,7 @@
 ---
         layout: post
         title: "MESTRADO em CIÊNCIA E ENGENHARIA DE MATERIAIS na UFPA  "
-        date: 2023-12-18 00:10:42
+        date: 2023-12-18 02:05:29
      
         tags:
         - MESTRADO
@@ -18,6 +18,7 @@
         Instituicao: "UNIVERSIDADE FEDERAL DO PARÁ"
         Estado: "PA"
         Area: "ENGENHARIA DE MATERIAIS E METALÚRGICA"
+        Regiao: NORTE
         
         
         

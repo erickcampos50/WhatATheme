@@ -1,7 +1,7 @@
 ---
         layout: post
         title: "MESTRADO PROFISSIONAL em ENSINO DE LÍNGUA PORTUGUESA E SUAS RESPECTIVAS LITERATURAS na UEPA  "
-        date: 2023-12-18 00:10:42
+        date: 2023-12-18 02:05:29
      
         tags:
         - MESTRADO PROFISSIONAL
@@ -18,6 +18,7 @@
         Instituicao: "UNIVERSIDADE DO ESTADO DO PARÁ"
         Estado: "PA"
         Area: "LETRAS"
+        Regiao: NORTE
         
         
         

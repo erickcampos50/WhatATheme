@@ -1,7 +1,7 @@
 ---
         layout: post
         title: "MESTRADO/DOUTORADO em CIÊNCIAS BIOLÓGICAS na INPA  "
-        date: 2023-12-18 00:10:42
+        date: 2023-12-18 02:05:29
      
         tags:
         - MESTRADO/DOUTORADO
@@ -18,6 +18,7 @@
         Instituicao: "INSTITUTO NACIONAL DE PESQUISAS DA AMAZÔNIA"
         Estado: "AM"
         Area: "ECOLOGIA"
+        Regiao: NORTE
         
         
         

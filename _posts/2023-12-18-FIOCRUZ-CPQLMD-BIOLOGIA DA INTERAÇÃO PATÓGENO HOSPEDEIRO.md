@@ -1,7 +1,7 @@
 ---
         layout: post
         title: "MESTRADO/DOUTORADO em BIOLOGIA DA INTERAÇÃO PATÓGENO HOSPEDEIRO na FIOCRUZ-CPQLMD  "
-        date: 2023-12-18 00:10:42
+        date: 2023-12-18 02:05:29
      
         tags:
         - MESTRADO/DOUTORADO
@@ -18,6 +18,7 @@
         Instituicao: "FIOCRUZ ( CENTRO DE PESQUISA LEÔNIDAS E MARIA DEANE )"
         Estado: "AM"
         Area: "PARASITOLOGIA"
+        Regiao: NORTE
         
         
         

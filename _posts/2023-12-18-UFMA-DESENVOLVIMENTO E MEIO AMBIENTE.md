@@ -1,7 +1,7 @@
 ---
         layout: post
         title: "MESTRADO em DESENVOLVIMENTO E MEIO AMBIENTE na UFMA  "
-        date: 2023-12-18 00:10:42
+        date: 2023-12-18 02:05:29
      
         tags:
         - MESTRADO
@@ -18,6 +18,7 @@
         Instituicao: "UNIVERSIDADE FEDERAL DO MARANHÃO"
         Estado: "MA"
         Area: "CIÊNCIAS AMBIENTAIS"
+        Regiao: NORDESTE
         
         
         

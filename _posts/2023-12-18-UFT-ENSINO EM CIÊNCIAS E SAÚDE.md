@@ -1,7 +1,7 @@
 ---
         layout: post
         title: "MESTRADO em ENSINO EM CIÊNCIAS E SAÚDE na UFT  "
-        date: 2023-12-18 00:10:42
+        date: 2023-12-18 02:05:29
      
         tags:
         - MESTRADO
@@ -18,6 +18,7 @@
         Instituicao: "FUNDAÇÃO UNIVERSIDADE FEDERAL DO TOCANTINS"
         Estado: "TO"
         Area: "ENSINO"
+        Regiao: NORTE
         
         
         

@@ -1,7 +1,7 @@
 ---
         layout: post
         title: "MESTRADO em ARQUEOLOGIA na FUFPI  "
-        date: 2023-12-18 00:10:42
+        date: 2023-12-18 02:05:29
      
         tags:
         - MESTRADO
@@ -18,6 +18,7 @@
         Instituicao: "FUNDAÇÃO UNIVERSIDADE FEDERAL DO PIAUÍ"
         Estado: "PI"
         Area: "ARQUEOLOGIA"
+        Regiao: NORDESTE
         
         
         

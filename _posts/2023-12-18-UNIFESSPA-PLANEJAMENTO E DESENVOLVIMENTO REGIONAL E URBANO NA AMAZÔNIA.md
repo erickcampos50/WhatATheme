@@ -1,7 +1,7 @@
 ---
         layout: post
         title: "MESTRADO em PLANEJAMENTO E DESENVOLVIMENTO REGIONAL E URBANO NA AMAZÔNIA na UNIFESSPA  "
-        date: 2023-12-18 00:10:42
+        date: 2023-12-18 02:05:29
      
         tags:
         - MESTRADO
@@ -18,6 +18,7 @@
         Instituicao: "UNIVERSIDADE FEDERAL DO SUL E SUDESTE DO PARÁ"
         Estado: "PA"
         Area: "PLANEJAMENTO URBANO E REGIONAL"
+        Regiao: NORTE
         
         
         

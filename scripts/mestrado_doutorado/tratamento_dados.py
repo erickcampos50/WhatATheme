@@ -34,12 +34,12 @@ from datetime import datetime
 caminho_do_arquivo = 'mestrado_doutorado_univ_publicas.csv'
 
 # Carregar apenas as 10 primeiras linhas do DataFrame
-df_dados = pd.read_csv(caminho_do_arquivo, sep="\t" )#,nrows=100)
+df_dados = pd.read_csv(caminho_do_arquivo, sep="\t",nrows=400)
 
 # Filtrar o DataFrame
 df_filtrado = df_dados[(df_dados['Situação do programa no ano de referência'] == 'EM FUNCIONAMENTO') & 
                 (df_dados['Dependência administrativa da Instituição de Ensino Superior'] == 'PÚBLICA')]
-
+df_filtrado = df_filtrado.sort_values(by='Nome do programa de pós-graduação em inglês')
 # Função para criar o conteúdo do arquivo Markdown com Front Matter
 def criar_markdown(linha):
     # Configuração do Front Matter
@@ -63,6 +63,7 @@ def criar_markdown(linha):
         Instituicao: "{linha['Instituição de Ensino Superior do programa de pós-graduação']}"
         Estado: "{linha['Sigla da Unidade da Federação do programa']}"
         Area: "{linha['Área de conhecimento do programa de pós-graduação']}"
+        Regiao: {linha['Grande Região onde está localizado o programa']}
         
         
         
@@ -114,9 +115,14 @@ diretorio_destino = '../../_posts/'
 
 # Criar um arquivo Markdown para cada linha do DataFrame filtrado
 for index, linha in df_filtrado.iterrows():
-    nome_arquivo = f"{diretorio_destino}{datetime.now().strftime('%Y-%m-%d')}-{linha['Sigla da Instituição de Ensino Superior do programa de pós-graduação']}-{linha['Nome do programa de pós-graduação']}.md"
-    with open(nome_arquivo, 'w',encoding='utf-8') as arquivo:
-        arquivo.write(criar_markdown(linha))
+    print(index)
+    try:
+        nome_arquivo = f"{diretorio_destino}{datetime.now().strftime('%Y-%m-%d')}-{linha['Sigla da Instituição de Ensino Superior do programa de pós-graduação']}-{linha['Nome do programa de pós-graduação']}.md"
+        with open(nome_arquivo, 'w',encoding='utf-8') as arquivo:
+            arquivo.write(criar_markdown(linha))
+    except:
+        print("Erro em ",nome_arquivo)
+        continue
 
 # %%
 df_filtrado.to_csv("univ_filtradas.csv")

@@ -1,7 +1,7 @@
 ---
         layout: post
         title: "MESTRADO PROFISSIONAL em ENFERMAGEM EM SAÚDE PÚBLICA na UEA  "
-        date: 2023-12-18 00:10:42
+        date: 2023-12-18 02:05:29
      
         tags:
         - MESTRADO PROFISSIONAL
@@ -18,6 +18,7 @@
         Instituicao: "UNIVERSIDADE DO ESTADO DO AMAZONAS"
         Estado: "AM"
         Area: "ENFERMAGEM"
+        Regiao: NORTE
         
         
         
