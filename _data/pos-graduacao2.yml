@@ -1,0 +1,150 @@
+- description: Navegue pelos programas de pós-graduação oferecidos por cada universidade
+    pública brasileira. Encontre a instituição perfeita para você.
+  image: https://fakeimg.pl/300x100/0b71e6/fff/?text=Programas%20por%20Institui%C3%A7%C3%A3o&font=roboto
+  link: pos-graduacao-instituicao
+  name: Por instituição
+- description: Busque programas de Mestrado e Doutorado por estado. Encontre instituições
+    próximas e faça sua escolha com conveniência e proximidade.
+  image: https://fakeimg.pl/300x100/0b71e6/fff/?text=Programas%20por%20Estado&font=roboto
+  link: pos-graduacao-estado
+  name: Por estado
+- description: Selecione programas de pós-graduação por área de interesse. Encontre
+    o caminho ideal para avançar em sua área específica de estudo.
+  image: https://fakeimg.pl/300x100/0b71e6/fff/?text=Programas%20por%20%C3%81rea%20do%20conhecimento&font=roboto
+  link: pos-graduacao-area
+  name: Por área
+- description: Lista de programas de mestrado e doutorado organizando por classe (Mestrado,
+    Doutorado, Mestrado Profissional, etc.)
+  image: https://fakeimg.pl/300x100/0b71e6/fff/?text=Programas%20por%20Classe&font=roboto
+  link: pos-graduacao-classe
+  name: Por classe
+- description: Descubra os programas com as melhores notas da CAPES. Escolha entre
+    os mais bem avaliados para garantir uma educação de qualidade.
+  image: https://fakeimg.pl/300x100/0b71e6/fff/?text=Top%20CAPES&font=roboto
+  link: pos-graduacao-nota
+  name: Por Nota Capes
+- description: Navegue pelos programas de pós-graduação oferecidos por cada universidade
+    pública brasileira. Encontre a instituição perfeita para você.
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Programas%20por%20Institui%C3%A7%C3%A3o&font=roboto
+  link: pos-graduacao-instituicao-centro-oeste
+  name: Por instituição/CENTRO OESTE
+- description: Busque programas de Mestrado e Doutorado por estado. Encontre instituições
+    próximas e faça sua escolha com conveniência e proximidade.
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Programas%20por%20Estado&font=roboto
+  link: pos-graduacao-estado-centro-oeste
+  name: Por estado/CENTRO OESTE
+- description: Selecione programas de pós-graduação por área de interesse. Encontre
+    o caminho ideal para avançar em sua área específica de estudo.
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Programas%20por%20%C3%81rea%20do%20conhecimento&font=roboto
+  link: pos-graduacao-area-centro-oeste
+  name: Por área/CENTRO OESTE
+- description: Lista de programas de mestrado e doutorado organizando por classe (Mestrado,
+    Doutorado, Mestrado Profissional, etc.)
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Programas%20por%20Classe&font=roboto
+  link: pos-graduacao-classe-centro-oeste
+  name: Por classe/CENTRO OESTE
+- description: Descubra os programas com as melhores notas da CAPES. Escolha entre
+    os mais bem avaliados para garantir uma educação de qualidade.
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Top%20CAPES&font=roboto
+  link: pos-graduacao-nota-centro-oeste
+  name: Por Nota Capes/CENTRO OESTE
+- description: Navegue pelos programas de pós-graduação oferecidos por cada universidade
+    pública brasileira. Encontre a instituição perfeita para você.
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Programas%20por%20Institui%C3%A7%C3%A3o&font=roboto
+  link: pos-graduacao-instituicao-sudeste
+  name: Por instituição/SUDESTE
+- description: Busque programas de Mestrado e Doutorado por estado. Encontre instituições
+    próximas e faça sua escolha com conveniência e proximidade.
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Programas%20por%20Estado&font=roboto
+  link: pos-graduacao-estado-sudeste
+  name: Por estado/SUDESTE
+- description: Selecione programas de pós-graduação por área de interesse. Encontre
+    o caminho ideal para avançar em sua área específica de estudo.
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Programas%20por%20%C3%81rea%20do%20conhecimento&font=roboto
+  link: pos-graduacao-area-sudeste
+  name: Por área/SUDESTE
+- description: Lista de programas de mestrado e doutorado organizando por classe (Mestrado,
+    Doutorado, Mestrado Profissional, etc.)
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Programas%20por%20Classe&font=roboto
+  link: pos-graduacao-classe-sudeste
+  name: Por classe/SUDESTE
+- description: Descubra os programas com as melhores notas da CAPES. Escolha entre
+    os mais bem avaliados para garantir uma educação de qualidade.
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Top%20CAPES&font=roboto
+  link: pos-graduacao-nota-sudeste
+  name: Por Nota Capes/SUDESTE
+- description: Navegue pelos programas de pós-graduação oferecidos por cada universidade
+    pública brasileira. Encontre a instituição perfeita para você.
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Programas%20por%20Institui%C3%A7%C3%A3o&font=roboto
+  link: pos-graduacao-instituicao-norte
+  name: Por instituição/NORTE
+- description: Busque programas de Mestrado e Doutorado por estado. Encontre instituições
+    próximas e faça sua escolha com conveniência e proximidade.
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Programas%20por%20Estado&font=roboto
+  link: pos-graduacao-estado-norte
+  name: Por estado/NORTE
+- description: Selecione programas de pós-graduação por área de interesse. Encontre
+    o caminho ideal para avançar em sua área específica de estudo.
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Programas%20por%20%C3%81rea%20do%20conhecimento&font=roboto
+  link: pos-graduacao-area-norte
+  name: Por área/NORTE
+- description: Lista de programas de mestrado e doutorado organizando por classe (Mestrado,
+    Doutorado, Mestrado Profissional, etc.)
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Programas%20por%20Classe&font=roboto
+  link: pos-graduacao-classe-norte
+  name: Por classe/NORTE
+- description: Descubra os programas com as melhores notas da CAPES. Escolha entre
+    os mais bem avaliados para garantir uma educação de qualidade.
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Top%20CAPES&font=roboto
+  link: pos-graduacao-nota-norte
+  name: Por Nota Capes/NORTE
+- description: Navegue pelos programas de pós-graduação oferecidos por cada universidade
+    pública brasileira. Encontre a instituição perfeita para você.
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Programas%20por%20Institui%C3%A7%C3%A3o&font=roboto
+  link: pos-graduacao-instituicao-nordeste
+  name: Por instituição/NORDESTE
+- description: Busque programas de Mestrado e Doutorado por estado. Encontre instituições
+    próximas e faça sua escolha com conveniência e proximidade.
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Programas%20por%20Estado&font=roboto
+  link: pos-graduacao-estado-nordeste
+  name: Por estado/NORDESTE
+- description: Selecione programas de pós-graduação por área de interesse. Encontre
+    o caminho ideal para avançar em sua área específica de estudo.
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Programas%20por%20%C3%81rea%20do%20conhecimento&font=roboto
+  link: pos-graduacao-area-nordeste
+  name: Por área/NORDESTE
+- description: Lista de programas de mestrado e doutorado organizando por classe (Mestrado,
+    Doutorado, Mestrado Profissional, etc.)
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Programas%20por%20Classe&font=roboto
+  link: pos-graduacao-classe-nordeste
+  name: Por classe/NORDESTE
+- description: Descubra os programas com as melhores notas da CAPES. Escolha entre
+    os mais bem avaliados para garantir uma educação de qualidade.
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Top%20CAPES&font=roboto
+  link: pos-graduacao-nota-nordeste
+  name: Por Nota Capes/NORDESTE
+- description: Navegue pelos programas de pós-graduação oferecidos por cada universidade
+    pública brasileira. Encontre a instituição perfeita para você.
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Programas%20por%20Institui%C3%A7%C3%A3o&font=roboto
+  link: pos-graduacao-instituicao-sul
+  name: Por instituição/SUL
+- description: Busque programas de Mestrado e Doutorado por estado. Encontre instituições
+    próximas e faça sua escolha com conveniência e proximidade.
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Programas%20por%20Estado&font=roboto
+  link: pos-graduacao-estado-sul
+  name: Por estado/SUL
+- description: Selecione programas de pós-graduação por área de interesse. Encontre
+    o caminho ideal para avançar em sua área específica de estudo.
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Programas%20por%20%C3%81rea%20do%20conhecimento&font=roboto
+  link: pos-graduacao-area-sul
+  name: Por área/SUL
+- description: Lista de programas de mestrado e doutorado organizando por classe (Mestrado,
+    Doutorado, Mestrado Profissional, etc.)
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Programas%20por%20Classe&font=roboto
+  link: pos-graduacao-classe-sul
+  name: Por classe/SUL
+- description: Descubra os programas com as melhores notas da CAPES. Escolha entre
+    os mais bem avaliados para garantir uma educação de qualidade.
+  image: https://fakeimg.pl/300x100/0b7100/fff/?text=Top%20CAPES&font=roboto
+  link: pos-graduacao-nota-sul
+  name: Por Nota Capes/SUL

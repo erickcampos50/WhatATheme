@@ -1,9 +1,10 @@
 #%%
 
 import pandas as pd
+from datetime import datetime
 
 def substituir_codigos(nome_arquivo_codigos, nome_arquivo_dados):
-    # Ler o primeiro arquivo com códigos e nomes legíveis
+    # Ler o primeiro arquivo com dicionário de códigos e nomes legíveis
     df_codigos = pd.read_csv(nome_arquivo_codigos, sep='\t', usecols=[1, 2], header=None)
     mapeamento_codigos = dict(zip(df_codigos[1], df_codigos[2]))
 
@@ -17,12 +18,12 @@ def substituir_codigos(nome_arquivo_codigos, nome_arquivo_dados):
     df_dados = df_dados.drop(df_dados.columns[-3:], axis=1)
 
     # Salvar o arquivo modificado
-    df_dados.to_csv('mestrado_doutorado_univ_publicas.csv', sep='\t', index=False, header=None)
+    df_dados.to_csv('somente_univ_publicas.csv', sep='\t', index=False, header=None)
 
 
 #%%
 # Chamada da função com os nomes dos arquivos (ajuste conforme necessário)
-substituir_codigos('codigos_capes.csv', 'br-capes-colsucup-prog-2021-2022-11-30.csv')
+substituir_codigos('CAPES_originais/codigos_capes.csv', 'CAPES_originais/br-capes-colsucup-prog-2021-2022-11-30.csv')
 
 
 # %%
@@ -30,17 +31,21 @@ import pandas as pd
 from datetime import datetime
 
 
-# Substitua isso pelo caminho do seu arquivo CSV ou Excel
-caminho_do_arquivo = 'mestrado_doutorado_univ_publicas.csv'
+# Arquivo com os dados de mestrado e doutorado filtrados de universidades públicas
+caminho_do_arquivo = 'somente_univ_publicas.csv'
 
-# Carregar apenas as 10 primeiras linhas do DataFrame
-df_dados = pd.read_csv(caminho_do_arquivo, sep="\t",nrows=400)
+# Carregar apenas as N primeiras linhas do Dataframe (recurso para testes mais rápidos)
+df_dados = pd.read_csv(caminho_do_arquivo, sep="\t",nrows=1400)
 
 # Filtrar o DataFrame
 df_filtrado = df_dados[(df_dados['Situação do programa no ano de referência'] == 'EM FUNCIONAMENTO') & 
                 (df_dados['Dependência administrativa da Instituição de Ensino Superior'] == 'PÚBLICA')]
+
+# Filtro para gerar uma lista de valores mais ou menos aleatórios válido somente para a fase de testes com amostras dos dados
 df_filtrado = df_filtrado.sort_values(by='Nome do programa de pós-graduação em inglês')
-# Função para criar o conteúdo do arquivo Markdown com Front Matter
+
+
+# Função para criar o conteúdo do arquivo Markdown com dados de Front Matter para o jekyll. As Tags são essenciais para visualização rápida dos dados principais 
 def criar_markdown(linha):
     # Configuração do Front Matter
     front_matter = f"""---

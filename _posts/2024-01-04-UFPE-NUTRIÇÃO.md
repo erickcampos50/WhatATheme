@@ -1,0 +1,59 @@
+---
+        layout: post
+        title: "MESTRADO/DOUTORADO em NUTRIÇÃO na UFPE  "
+        date: 2024-01-04 13:01:48
+     
+        tags:
+        - MESTRADO/DOUTORADO
+        - "NUTRIÇÃO"
+        - "UFPE"
+        - "PE"
+        - CIDADE:RECIFE
+        - NOTA:5
+        
+       
+
+        Nivel: "MESTRADO/DOUTORADO"
+        Nota: "5"
+        Instituicao: "UNIVERSIDADE FEDERAL DE PERNAMBUCO"
+        Estado: "PE"
+        Area: "NUTRIÇÃO"
+        Regiao: NORDESTE
+        
+        
+        
+        
+        
+        
+---
+## Visão Geral do Programa
+- **Nome do Programa:** NUTRIÇÃO
+- **Nível:** MESTRADO/DOUTORADO
+- **Sigla da Instituição:** UFPE
+- **Instituição de Ensino Superior:** UNIVERSIDADE FEDERAL DE PERNAMBUCO
+- **Status Jurídico:** FEDERAL
+- **Nota/Conceito:** 5
+- **Ano de Início do Programa:** 1971
+- **Ano de Referência do Coleta de dados:** 2021
+
+## Localização do Programa
+- **Grande Região:** NORDESTE
+- **Sigla da Unidade da Federação:** PE
+- **Município Sede:** RECIFE
+
+## Áreas de Conhecimento
+- **Grande Área do Conhecimento:** CIÊNCIAS DA SAÚDE
+- **Área de Conhecimento:** NUTRIÇÃO
+- **Área Básica do Conhecimento:** NUTRIÇÃO
+- **Subárea:** NÃO SE APLICA
+- **Especialidade:** NÃO SE APLICA
+
+## Avaliação e Código do Programa
+- **Código Identificador da Área de Avaliação:** 50
+- **Área de Avaliação:** NUTRIÇÃO
+- **Código do Programa de Pós-Graduação:** 25001019028P2
+
+
+## Modalidade e Ano de Início do Curso
+- **Modalidade do Programa:** ACADÊMICO
+- **Ano de Início de Cada Curso:** 1971/1991
